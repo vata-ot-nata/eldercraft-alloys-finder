@@ -3,7 +3,7 @@
 A Python tool for finding optimal alloy compositions for weapons on the
 Eldercraft Minecraft server. Based on outdated server data.
 
-Eldercraft IP: eldercraft.online
+Eldercraft IP: eldercraft.online  
 Second IP: 176.9.18.206:20006
 
 ## About
